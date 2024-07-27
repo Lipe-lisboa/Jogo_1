@@ -1,1 +1,2 @@
-from pygame.locals import *
+    
+    #Pra ca
